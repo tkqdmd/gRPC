@@ -23,8 +23,8 @@ Có những trường hợp khác cũng có thể được triển khai với b�
 - Máy khách và máy chủ đều gửi yêu cầu và phản hồi được stream cùng một lúc
 
 ## Tài liệu tham khảo
-https://codenotfound.com/grpc-java-example.html.
-https://github.com/sfcodes/grpc-client-spring-boot.
-https://thongthele.blogspot.com/2019/01/lam-viec-voi-protocol-buffers-va-grpc.html.
-https://github.com/code-not-found/grpc-java/tree/master/grpc-java-hello-world
-https://www.baeldung.com/grpc-introduction
+- https://codenotfound.com/grpc-java-example.html.
+- https://github.com/sfcodes/grpc-client-spring-boot.
+- https://thongthele.blogspot.com/2019/01/lam-viec-voi-protocol-buffers-va-grpc.html.
+- https://github.com/code-not-found/grpc-java/tree/master/grpc-java-hello-world
+- https://www.baeldung.com/grpc-introduction
